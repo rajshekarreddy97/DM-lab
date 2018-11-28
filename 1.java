@@ -84,9 +84,12 @@ public class prog1 {
 			}
 		}
 
-
-
-
+		//sampling result stored in array sampling---will return 0 if none elements are present in the range
+		System.out.println("----sampling-------");
+		System.out.println(" ["+min+"-"+mid1+") -"+sampling[0]);
+		System.out.println(" ["+mid1+"-"+mean+") -"+sampling[1]);
+		System.out.println(" ["+mean+"-"+mid2+") -"+sampling[2]);
+		System.out.println(" ["+mid2+"-"+max+") -"+sampling[3]);
 
 	}
 
