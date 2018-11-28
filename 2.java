@@ -37,7 +37,7 @@ public class prog2
       switch(option)
       {
         case 1: System.out.println("Enter the coloumn number\n");
-                int cl=sc.nextInt();
+                int col=sc.nextInt();
                 double avg=0, total=0;
                 for (String[] line:data)
                       if(col<line.length && !line[col].isEmpty())
