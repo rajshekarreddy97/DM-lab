@@ -94,3 +94,12 @@ public class prog1 {
 	}
 
 }
+
+
+// 1 50 hello
+// 2 30 ajay
+// 3 23 ager
+// 4 76 agre
+// 5 87 wert
+// 6 65wefg
+// 7 12fgdb
