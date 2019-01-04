@@ -80,7 +80,7 @@ public class prog1 {
 			else if(rc[j].attr1 >= mid2 && rc[j].attr1 <= max)
 			{
 				System.out.println(" ["+mid2+"-"+max+")");
-				sampling[4]=rc[j].attr1;
+				sampling[3]=rc[j].attr1;
 			}
 		}
 
